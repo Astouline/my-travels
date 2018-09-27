@@ -14,7 +14,26 @@ const travel = [
         country:"Italy",
         distance:"851km",
         image:"https://static.giantbomb.com/uploads/original/0/2413/425522-4.jpg"
+    },
+     {
+        destination:"Oslo",
+        country:"Norway",
+        distance:"851km",
+        image:"https://www.geo.fr/var/geo/storage/images/voyages/guides-de-voyage/europe/norvege/norvege-de-l-est-oestlandet/oslo/118246-18-fre-FR/oslo.jpg"
+    },
+    {
+        destination:"Barcelona",
+        country:"Spain",
+        distance:"851km",
+        image:"https://www.alibabuy.com/photos/library/1500/10453.jpg"
+    },
+    {
+        destination:"Roma",
+        country:"Italy",
+        distance:"851km",
+        image:"https://media-cdn.tripadvisor.com/media/photo-w/06/64/e9/88/roma.jpg"
     }
+
 ];
 
 const Travels = () => (
